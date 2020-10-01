@@ -1,1 +1,2 @@
 adding foo 
+some new changes to foo
